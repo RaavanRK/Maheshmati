@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fa-solid {
+  color: rgba(25, 135, 84, 1);
+}
+
+a[class="nav-link"]{
+color: rgb(179, 179, 179);
+}
+
+a[class="nav-link"]:hover{
+    color: rgb(255, 255, 255);
+    }
+
+ ul li i{
+    color: rgb(179, 179, 179);
+}
+
+ul li i:hover{
+    color: rgb(255, 255, 255);
+    transform: scale(1.1);
+}
+
+.name{
+    background: linear-gradient(to bottom,black 50%,rgba(25, 135, 84,1) 50%);
+    background-position-y: bottom;
+}
+
+.card img{
+    transition: 0.3s;
+}
+
+.card:hover img{
+    transform: scale(1.1);
+}
