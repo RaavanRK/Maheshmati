@@ -1,0 +1,59 @@
+#div1 p {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+#div1 h1 {
+  font-size: 5rem;
+  font: weight 500px;
+  font-family: "Inter", sans-serif;
+}
+#div1 button {
+  color: rgb(39, 167, 118, 1);
+  width: 250px;
+  height: 55px;
+  border-radius: 10px;
+}
+.card {
+  height: 250px;
+  width: 270px;
+}
+.card h1 {
+  font-weight: 600;
+  margin: 15px 0 0 0;
+  font-size: 20px;
+}
+.card p {
+  margin: 15px 0 0 0;
+  font-size: 14px;
+}
+.prices h1 {
+  font-size: 2rem;
+  font: weight 250px;
+  font-family: "Inter", sans-serif;
+}
+.testimonials h1 {
+  font-size: 2rem;
+  font: weight 250px;
+  font-family: "Inter", sans-serif;
+}
+.line {
+  vertical-align: middle;
+}
+#carouselExampleControls {
+  height: 400px;
+  width: 60%;
+  margin-left: 20%;
+  margin-left: 20%;
+}
+.carousel-item {
+  height: 400px;
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.fa-user {
+  padding: 10px;
+  font-size: 70px;
+  width: 100px;
+  height: 100px;
+}
